@@ -8,12 +8,6 @@ export class AppController {
     private readonly appService: AppService
   ) { }
 
- 
-
-  async ChatBox(){
-    
-  }
-
 }
 
 
